@@ -1,0 +1,50 @@
+html {
+  background-color: #103d54;
+}
+
+.header {
+  padding: 4px;
+  text-align: center;
+  background: #6d8a81;
+  color: rgb(208, 226, 219);
+}
+
+.header h1 {
+  font-size: 40px;
+}
+
+.createBorder {
+ border: 2px transparent black;
+}
+.jobs {
+  padding: 20px;
+  background-color: #e6f9f3;
+  text-align: justify;
+}
+
+.jobs h2 {
+  color: #6c4f8f;
+  margin: auto;
+  font-size: 18px;
+
+}
+#jobOne {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  border: 1px dotted rgb(133, 75, 96);
+}
+#jobTwo {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  border: 3px solid rgb(125, 87, 46);
+}
+#jobThree {
+  font-family: "Courier New", Courier, monospace;
+  border: 5px dashed rgb(65, 71, 65);
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  padding: 5px;
+  background-color:#6d8a81;
+  color: #fff;
+}
